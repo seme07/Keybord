@@ -12,4 +12,5 @@ layer 0：
 [{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{a:7,w:3},"",{w:3},"",{a:5},"Alt",{w:1.25},"Fn","Ctrl",{a:7},"Left",{a:4},"Down",{a:6},"Right"]
 ```
 layer 1:
+
 ![image](https://github.com/seme07/Keybord/assets/88241738/c20f1854-34e6-4153-a0f6-2b8452c7a2e7)
