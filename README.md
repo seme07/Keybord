@@ -1,4 +1,4 @@
-![image](https://github.com/seme07/Keybord/assets/88241738/95d0567c-c78a-43e5-9b94-dafbb07ebf4f)# Keybord
+Keybord
 这是我想制作的键盘
 
 http://www.keyboard-layout-editor.com/#/
@@ -19,5 +19,5 @@ layer 1:
 
 Keyboard Firmware Builder:
 
-![Uploading image.png…]()
+![image](https://github.com/seme07/Keybord/assets/88241738/95d0567c-c78a-43e5-9b94-dafbb07ebf4f)# 
 
